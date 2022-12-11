@@ -1,3 +1,9 @@
 #para {
     font-style: italic;
+    color: whitesmoke;
+    background-color: black;
+}
+
+#header {
+    color: blue;
 }
